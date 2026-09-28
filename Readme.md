@@ -77,3 +77,11 @@ echo "deb [signed-by=/usr/share/keyrings/helm.gpg] https://packages.buildkite.co
 sudo apt-get update
 sudo apt-get install helm
 
+**Docker-compose**
+
+sudo apt-get update
+sudo apt-get install docker-compose-plugin
+
+sudo yum update
+sudo yum install docker-compose-plugin
+
